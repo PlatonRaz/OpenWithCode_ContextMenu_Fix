@@ -4,8 +4,8 @@
 
 This commit includes two scripts to manage the **“Open with Code”** option in the Windows folder right-click context menu:
 
-- **Add-Open-With-Code.bat** — Adds the “Open with Code” entry to folders and folder backgrounds.  
-- **Remove-Open-With-Code.bat** — Removes the “Open with Code” entry.
+- **Add_Open-With-Code.bat** — Adds the “Open with Code” entry to folders and folder backgrounds.  
+- **Remove_Open-With-Code.bat** — Removes the “Open with Code” entry.
 
 ---
 
